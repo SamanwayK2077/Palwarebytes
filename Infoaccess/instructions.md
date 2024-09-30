@@ -1,6 +1,5 @@
 This is a bit of a complicated malware so some modifications need to be made.
-
-==================================================================================
+========================================================================
 
 The modifications are:
 
