@@ -20,5 +20,5 @@ Instructions:
 
 ==============================
 
-What the virus does:
+What the malware does:
 Every time you click, the malware opens up a picture of beans.
