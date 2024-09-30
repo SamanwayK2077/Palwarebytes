@@ -23,6 +23,7 @@ Don't have a linux server? no problem. You can open one for free by:
 8. Done!
 
 ====================
+
 Before sending the virus:
 1. remove this file
 2. zip the two virus files
