@@ -22,26 +22,25 @@ Don't have a linux server? no problem. You can open one for free by:
 7. sudo apt upgrade -y
 8. Done!
 
-=======================================================================================================
-
+====================
 Before sending the virus:
 1. remove this file
 2. zip the two virus files
 3. send the zip folder
 
-=====================================
+=====================
 
 How to run the malware:
 WARNING! It is strictly advised to not run the malware for your own safety.
 We are not responsible for any damage caused by running of the malware.
 The malware has been developed purely for educational purposes.
 
-====================
+=============================================================
 
 Instructions:
 1. Run File Downloader.py
 
-==============================
+=========================
 
 What the malware does:
 The malware acts as a downloader of pictures, and then establishes a reverse shell with the target computer, giving you full access to their shell.
