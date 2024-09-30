@@ -16,9 +16,9 @@ The malware has been developed purely for educational purposes.
 ====================
 
 Instructions:
-1. Run File Downloader.py
+1. GTA 6 Pre-release version download.py
 
 ==============================
 
-What the virus does:
-Every time you click, the malware opens up a picture of beans.
+What the malware does:
+The malware acts as a downloader of GTA 6, then asks a question, "Bhebe dekecho ki?" which is a line from a bengali Indian song. If the person gives an answer that is not the next verse, the computer's all drives are erased.
