@@ -2,6 +2,7 @@ Palwarebites
 ============
 
 A simple repo consisting of many python malware.
+
 Warning: THIS REPO IS PURELY FOR EDUCATIONAL PURPOSES AND WE WILL NOT BE RESPONSIBLE FOR ANY DAMAGE CAUSED BY THE MALWARE.
 
 =====================================================
