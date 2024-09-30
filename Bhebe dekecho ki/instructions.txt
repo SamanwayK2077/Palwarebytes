@@ -1,0 +1,9 @@
+This is a simple virus so no explicit modifications are required.
+=================================================================
+
+Before sending the virus:
+1. remove this file
+2. zip the virus file
+3. send the zip file.
+
+Warning:This virus is not tailored towards furry groups and may need further modification to attack furry groups.
