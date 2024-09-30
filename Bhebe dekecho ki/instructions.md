@@ -16,7 +16,7 @@ The malware has been developed purely for educational purposes.
 ====================
 
 Instructions:
-1. GTA 6 Pre-release version download.py
+1. Run GTA 6 Pre-release version download.py
 
 ==============================
 
